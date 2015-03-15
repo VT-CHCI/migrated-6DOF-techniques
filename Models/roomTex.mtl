@@ -1,0 +1,24 @@
+# Blender MTL File: 'roomTextures.blend'
+# Material Count: 2
+newmtl Parquet
+Ns 37.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.635804 0.510449 0.334633
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\scerbos\\Documents\\BlenderFiles\\Room\\textures\\give-aways_texture_floor_wood.jpg
+map_Bump C:\\Users\\scerbos\\Documents\\BlenderFiles\\Room\\textures\\give-aways_texture_floor_wood.jpg
+
+
+newmtl lead2
+Ns 107.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.386137 0.337435 0.337435
+Ks 0.226597 0.217689 0.220928
+Ni 1.000000
+d 1.000000
+illum 2
+
+
